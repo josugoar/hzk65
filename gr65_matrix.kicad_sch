@@ -358,10 +358,10 @@
 		)
 	)
 	(junction
-		(at 63.5 228.6)
+		(at 476.25 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "92026423-8788-42bd-a9e6-c4a0b1cc591a")
+		(uuid "2d5681ea-2792-4da7-97e2-fa6b31db9a60")
 	)
 	(junction
 		(at 73.66 228.6)
@@ -370,16 +370,56 @@
 		(uuid "a0384839-9817-40df-91d8-534f0d804ee4")
 	)
 	(junction
-		(at 476.25 203.2)
+		(at 63.5 228.6)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d0384c43-978e-4657-92ec-890fc924bd5f")
+		(uuid "ed10884b-57d3-424f-9558-42185d9dde95")
 	)
 	(junction
 		(at 486.41 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd793056-b039-4c46-8e7b-16fece72bd82")
+	)
+	(wire
+		(pts
+			(xy 422.91 203.2) (xy 425.45 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a350000-59b4-44a0-8a42-74dfb7d519d8")
+	)
+	(wire
+		(pts
+			(xy 220.98 228.6) (xy 222.25 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ac29a59-d684-41f1-8a6d-0914fbba0e87")
+	)
+	(wire
+		(pts
+			(xy 252.73 203.2) (xy 254 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c07186a-e32b-4cf1-b74e-8e52245196e3")
+	)
+	(wire
+		(pts
+			(xy 391.16 203.2) (xy 393.7 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cbf903b-75e4-43eb-9368-95a273a7e0e1")
 	)
 	(wire
 		(pts
@@ -393,6 +433,76 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 203.2) (xy 171.45 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1142ea14-88c2-4264-b496-9bd1eb03bf04")
+	)
+	(wire
+		(pts
+			(xy 157.48 228.6) (xy 158.75 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17aa8ef7-a1bc-4f0d-a8c7-465db770f5d7")
+	)
+	(wire
+		(pts
+			(xy 443.23 177.8) (xy 444.5 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a9baec3-962b-4ae9-8958-f8d72cfaa9c4")
+	)
+	(wire
+		(pts
+			(xy 200.66 254) (xy 203.2 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1be7ad2f-2311-46fa-b7e7-6778717da663")
+	)
+	(wire
+		(pts
+			(xy 443.23 152.4) (xy 444.5 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c3937f1-0d28-4072-88f3-37bab0bc8164")
+	)
+	(wire
+		(pts
+			(xy 327.66 254) (xy 330.2 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d2d14d5-dd0b-4630-9e54-4536d0ba9d6b")
+	)
+	(wire
+		(pts
+			(xy 62.23 203.2) (xy 63.5 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d38b838-84e4-4fb0-9a42-3b00d90ddafa")
+	)
+	(wire
+		(pts
 			(xy 63.5 228.6) (xy 63.5 232.41)
 		)
 		(stroke
@@ -400,6 +510,456 @@
 			(type default)
 		)
 		(uuid "1e84ba9e-bf6f-4cb6-b444-6edfa74c7f35")
+	)
+	(wire
+		(pts
+			(xy 359.41 177.8) (xy 361.95 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22503c53-b773-43a7-8999-8f512bd02202")
+	)
+	(wire
+		(pts
+			(xy 189.23 228.6) (xy 190.5 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2360387f-71ac-4809-af49-a2a1e2d72ba7")
+	)
+	(wire
+		(pts
+			(xy 200.66 152.4) (xy 203.2 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25168417-6a5e-43d8-a32b-2072808b64f7")
+	)
+	(wire
+		(pts
+			(xy 252.73 152.4) (xy 254 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "275308a3-23ec-4a2c-98db-f8620f569025")
+	)
+	(wire
+		(pts
+			(xy 411.48 254) (xy 412.75 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "276db679-8d9e-4573-bd9c-206f9aebb220")
+	)
+	(wire
+		(pts
+			(xy 137.16 254) (xy 139.7 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27a3c7b4-3bf9-4ec2-a779-8de98dbb929f")
+	)
+	(wire
+		(pts
+			(xy 200.66 177.8) (xy 203.2 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28e3ad9b-c5a0-42ec-9d4b-e9a315c94bf4")
+	)
+	(wire
+		(pts
+			(xy 474.98 228.6) (xy 476.25 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2982d28f-e003-4dd6-bd2f-41512ed2440f")
+	)
+	(wire
+		(pts
+			(xy 105.41 152.4) (xy 107.95 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "298c2eb6-4d3b-413b-82cb-ada9d0b7c282")
+	)
+	(wire
+		(pts
+			(xy 295.91 152.4) (xy 298.45 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cf4b13b-43ff-4a10-8d87-3fc557b7d89c")
+	)
+	(wire
+		(pts
+			(xy 327.66 177.8) (xy 330.2 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d2d7d31-83ef-4ff0-b8b2-73fb1f8aba20")
+	)
+	(wire
+		(pts
+			(xy 422.91 228.6) (xy 425.45 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e9971e8-3cd9-46c5-a662-c4622418454a")
+	)
+	(wire
+		(pts
+			(xy 105.41 254) (xy 107.95 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2efb37a4-ef21-4c50-891f-d44356e0da43")
+	)
+	(wire
+		(pts
+			(xy 486.41 228.6) (xy 488.95 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "313e554d-38e4-4452-8c43-9e622eb255f3")
+	)
+	(wire
+		(pts
+			(xy 454.66 152.4) (xy 457.2 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33ed3742-9aff-43d0-8f70-3aadbc824763")
+	)
+	(wire
+		(pts
+			(xy 137.16 228.6) (xy 139.7 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "352a0309-a557-42fe-8d97-099d09c70e85")
+	)
+	(wire
+		(pts
+			(xy 316.23 228.6) (xy 317.5 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36e58185-9906-4d82-8a22-13ac037cb94d")
+	)
+	(wire
+		(pts
+			(xy 379.73 203.2) (xy 381 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "399ba59f-9a18-4400-b4d2-6dc5be7a0248")
+	)
+	(wire
+		(pts
+			(xy 295.91 228.6) (xy 298.45 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b498351-2cef-4961-9a90-2634150d6327")
+	)
+	(wire
+		(pts
+			(xy 62.23 177.8) (xy 63.5 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4161a123-4deb-4e2b-ba5e-766929cd6b55")
+	)
+	(wire
+		(pts
+			(xy 73.66 203.2) (xy 76.2 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45132c5f-a899-4654-b44a-c1a1c9c3888b")
+	)
+	(wire
+		(pts
+			(xy 506.73 254) (xy 508 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "487aa652-0050-48b4-be1f-2deb8f7213b6")
+	)
+	(wire
+		(pts
+			(xy 295.91 177.8) (xy 298.45 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ad35c34-7c31-45f0-8b92-a7392b53f058")
+	)
+	(wire
+		(pts
+			(xy 347.98 152.4) (xy 349.25 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aec8e20-a690-4537-b4a1-2815d4ea8e96")
+	)
+	(wire
+		(pts
+			(xy 232.41 177.8) (xy 234.95 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c5110b3-749d-43bb-93d2-6a3ed5deb3d6")
+	)
+	(wire
+		(pts
+			(xy 391.16 152.4) (xy 393.7 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55675b8e-0e6c-4a9b-be43-cc9bcf7c44c2")
+	)
+	(wire
+		(pts
+			(xy 422.91 152.4) (xy 425.45 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55854bad-f9cb-4d15-b40e-6795e1ae537c")
+	)
+	(wire
+		(pts
+			(xy 347.98 228.6) (xy 349.25 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5621af80-3600-4875-85c9-9caec9175c13")
+	)
+	(wire
+		(pts
+			(xy 105.41 203.2) (xy 107.95 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56b12a17-f30c-4242-83a2-227bdb8946ca")
+	)
+	(wire
+		(pts
+			(xy 518.16 177.8) (xy 520.7 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56eec671-3eef-425c-ac72-20cab9c5e299")
+	)
+	(wire
+		(pts
+			(xy 93.98 203.2) (xy 95.25 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56f8dc20-7131-46eb-b062-48754c8a9763")
+	)
+	(wire
+		(pts
+			(xy 327.66 228.6) (xy 330.2 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58258cfd-1c5b-4483-a7c1-6e6ad38e677c")
+	)
+	(wire
+		(pts
+			(xy 252.73 254) (xy 254 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "588c0cd1-19b1-40c5-9646-babfb3d5cacf")
+	)
+	(wire
+		(pts
+			(xy 295.91 254) (xy 298.45 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "597e256d-a92a-42e9-9e62-654a67adc7ac")
+	)
+	(wire
+		(pts
+			(xy 284.48 254) (xy 285.75 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d533f52-a0c5-47a1-879d-0f8782a2019c")
+	)
+	(wire
+		(pts
+			(xy 264.16 203.2) (xy 266.7 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ee2e27e-d18b-4083-9112-83dfb9ac5310")
+	)
+	(wire
+		(pts
+			(xy 252.73 177.8) (xy 254 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fac358e-7243-40ee-95a3-1f435b70a34a")
+	)
+	(wire
+		(pts
+			(xy 327.66 203.2) (xy 330.2 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62150765-aab3-45ab-8d1d-02f67c7dd7bd")
+	)
+	(wire
+		(pts
+			(xy 125.73 177.8) (xy 127 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63455dd0-6810-4dab-b084-2f14e11e77db")
+	)
+	(wire
+		(pts
+			(xy 232.41 228.6) (xy 234.95 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "638df081-c83c-48dd-aa37-61c8628259f4")
+	)
+	(wire
+		(pts
+			(xy 316.23 203.2) (xy 317.5 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65b4d669-94d3-4341-9571-db9a4320abfe")
+	)
+	(wire
+		(pts
+			(xy 220.98 254) (xy 222.25 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6671b1d0-2496-4007-ae04-7b7a685784f1")
+	)
+	(wire
+		(pts
+			(xy 454.66 203.2) (xy 457.2 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66c66dd4-da14-47fd-bbf1-fb24acb2cf86")
+	)
+	(wire
+		(pts
+			(xy 284.48 177.8) (xy 285.75 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67ca8bc1-3a92-4689-92f4-1684fc862c9d")
+	)
+	(wire
+		(pts
+			(xy 347.98 203.2) (xy 349.25 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69e4d59a-0889-410e-b76f-5bd7a7cf7609")
 	)
 	(wire
 		(pts
@@ -413,6 +973,156 @@
 	)
 	(wire
 		(pts
+			(xy 391.16 254) (xy 393.7 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6bf11997-b1f4-4acc-87c7-170270023620")
+	)
+	(wire
+		(pts
+			(xy 93.98 152.4) (xy 95.25 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cac24aa-c98d-449d-b6d5-f699c989ea42")
+	)
+	(wire
+		(pts
+			(xy 168.91 254) (xy 171.45 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ce6a9e1-e71a-4b8f-be75-83950ae53a7b")
+	)
+	(wire
+		(pts
+			(xy 474.98 152.4) (xy 476.25 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6da50758-c982-4d37-b292-2659e7040483")
+	)
+	(wire
+		(pts
+			(xy 168.91 228.6) (xy 171.45 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e733d9b-d0d9-46db-8f90-f7feedd8da68")
+	)
+	(wire
+		(pts
+			(xy 284.48 152.4) (xy 285.75 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70fdbab9-8d2f-409c-81c3-1d25cb03cc2a")
+	)
+	(wire
+		(pts
+			(xy 518.16 203.2) (xy 520.7 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "726c328c-4a60-4b84-968f-cef4d0d5f237")
+	)
+	(wire
+		(pts
+			(xy 454.66 254) (xy 457.2 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73587562-80de-44f2-a32f-0a50f9b5f9af")
+	)
+	(wire
+		(pts
+			(xy 518.16 228.6) (xy 520.7 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "753f229c-d8b8-415a-b7f2-f266e38b0a7d")
+	)
+	(wire
+		(pts
+			(xy 506.73 152.4) (xy 508 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "757f08ea-b6e2-4cd7-aa46-5eae3e943dae")
+	)
+	(wire
+		(pts
+			(xy 157.48 254) (xy 158.75 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7589fddd-003f-4aa0-9d1d-bef60a34c528")
+	)
+	(wire
+		(pts
+			(xy 411.48 228.6) (xy 412.75 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76e08f62-1e6e-4b33-98f8-5c988151c71f")
+	)
+	(wire
+		(pts
+			(xy 379.73 228.6) (xy 381 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77deba8b-071b-4826-93cd-81664c9752a9")
+	)
+	(wire
+		(pts
+			(xy 137.16 177.8) (xy 139.7 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78fbc551-ff47-44cd-a488-8b7bc76f806e")
+	)
+	(wire
+		(pts
+			(xy 359.41 228.6) (xy 361.95 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79c4c438-ca42-4202-b30f-8027cc1b4a19")
+	)
+	(wire
+		(pts
 			(xy 486.41 196.85) (xy 486.41 203.2)
 		)
 		(stroke
@@ -420,6 +1130,96 @@
 			(type default)
 		)
 		(uuid "79cb6eea-6cdd-4f75-941a-f4fe05e74d2d")
+	)
+	(wire
+		(pts
+			(xy 264.16 152.4) (xy 266.7 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79da9b8a-6a50-476b-bcee-2f5876a9a656")
+	)
+	(wire
+		(pts
+			(xy 157.48 177.8) (xy 158.75 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b045a4e-6bd6-40c4-b621-524f5a59c460")
+	)
+	(wire
+		(pts
+			(xy 284.48 228.6) (xy 285.75 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b57244a-7a79-4ec4-86c7-d46b7b1d0130")
+	)
+	(wire
+		(pts
+			(xy 379.73 177.8) (xy 381 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b783a05-e308-443c-823a-1008cadf0e2d")
+	)
+	(wire
+		(pts
+			(xy 105.41 177.8) (xy 107.95 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b8be752-10de-4eef-bb50-a210a97603a0")
+	)
+	(wire
+		(pts
+			(xy 189.23 152.4) (xy 190.5 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c295d63-13f1-41ef-a5cc-61844b4eed33")
+	)
+	(wire
+		(pts
+			(xy 220.98 152.4) (xy 222.25 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e80bf93-1298-4455-b6be-9d3b5c670fa0")
+	)
+	(wire
+		(pts
+			(xy 73.66 254) (xy 76.2 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eaf94ea-19f3-4e2f-b39a-9e31e51da6d6")
+	)
+	(wire
+		(pts
+			(xy 506.73 203.2) (xy 508 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eb1b6f5-5db0-45eb-8510-d5795212013c")
 	)
 	(wire
 		(pts
@@ -433,6 +1233,106 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 254) (xy 127 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "845572d7-50af-452c-94e5-3321b0b46aa3")
+	)
+	(wire
+		(pts
+			(xy 220.98 203.2) (xy 222.25 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8496cd86-3b32-47e9-bf9e-5a5f9f805fca")
+	)
+	(wire
+		(pts
+			(xy 316.23 177.8) (xy 317.5 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8618216d-3a2d-4c04-b86b-49da0fe9e2d7")
+	)
+	(wire
+		(pts
+			(xy 168.91 152.4) (xy 171.45 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8621d5e8-9b62-4c44-aaaf-73141bba4122")
+	)
+	(wire
+		(pts
+			(xy 62.23 152.4) (xy 63.5 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88112cfb-63cf-47e1-9c16-ae66b794466f")
+	)
+	(wire
+		(pts
+			(xy 506.73 177.8) (xy 508 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8979269e-4093-4f5f-8154-633baad74f98")
+	)
+	(wire
+		(pts
+			(xy 316.23 152.4) (xy 317.5 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "899befb9-80f0-408a-89a0-13e2e9e6b341")
+	)
+	(wire
+		(pts
+			(xy 252.73 228.6) (xy 254 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b161c73-39e2-4c10-bcc8-f90523e6f23a")
+	)
+	(wire
+		(pts
+			(xy 295.91 203.2) (xy 298.45 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90761376-105d-421f-84b5-8e0af37f69fe")
+	)
+	(wire
+		(pts
+			(xy 422.91 177.8) (xy 425.45 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9178b461-ccc4-439d-8b72-35a6b8512f7b")
+	)
+	(wire
+		(pts
 			(xy 73.66 228.6) (xy 73.66 232.41)
 		)
 		(stroke
@@ -440,6 +1340,166 @@
 			(type default)
 		)
 		(uuid "9bde6e5d-fa60-489f-8071-c5bf33ddff36")
+	)
+	(wire
+		(pts
+			(xy 232.41 152.4) (xy 234.95 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cdd886d-2d1f-4ae7-88a3-46ab0635a11b")
+	)
+	(wire
+		(pts
+			(xy 189.23 203.2) (xy 190.5 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e78401e-84da-421a-a9f0-194625a38f4d")
+	)
+	(wire
+		(pts
+			(xy 359.41 203.2) (xy 361.95 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9eb88e23-1948-43fa-b30b-314762793cf9")
+	)
+	(wire
+		(pts
+			(xy 189.23 254) (xy 190.5 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0bda9b8-f3dd-40bd-bb82-4ddf130afadd")
+	)
+	(wire
+		(pts
+			(xy 379.73 254) (xy 381 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0c89449-d4d4-43a1-8830-6994f0a6d04d")
+	)
+	(wire
+		(pts
+			(xy 200.66 203.2) (xy 203.2 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0dcc20d-e279-4f1d-b611-ccb1b4072750")
+	)
+	(wire
+		(pts
+			(xy 232.41 254) (xy 234.95 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a115e25d-92a4-41f9-bab7-ecaed4cd64ce")
+	)
+	(wire
+		(pts
+			(xy 347.98 254) (xy 349.25 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a45346d8-d607-4430-9d02-412889b31a13")
+	)
+	(wire
+		(pts
+			(xy 189.23 177.8) (xy 190.5 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a521d080-af90-4ce9-bf5f-65a6dfb65b9e")
+	)
+	(wire
+		(pts
+			(xy 443.23 228.6) (xy 444.5 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9226e2f-602e-4df1-ab1a-51bc91e441ed")
+	)
+	(wire
+		(pts
+			(xy 474.98 177.8) (xy 476.25 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac25dcbe-a652-4a16-9b6e-7a28f4292ccc")
+	)
+	(wire
+		(pts
+			(xy 411.48 203.2) (xy 412.75 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b022ddc3-41ba-4f59-9025-cd4f2a3474fa")
+	)
+	(wire
+		(pts
+			(xy 379.73 152.4) (xy 381 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b05c4f49-0cf0-4a98-aa1d-3d35816df0b8")
+	)
+	(wire
+		(pts
+			(xy 157.48 152.4) (xy 158.75 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b358a534-4e76-418b-85db-4f7fa97867a7")
+	)
+	(wire
+		(pts
+			(xy 220.98 177.8) (xy 222.25 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3bc0acd-595c-40e9-ab5f-8b06a118170f")
+	)
+	(wire
+		(pts
+			(xy 73.66 177.8) (xy 76.2 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3cef491-4693-4efd-8210-81f064a3b9f2")
 	)
 	(wire
 		(pts
@@ -453,6 +1513,156 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 203.2) (xy 127 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7c7a1b4-f51b-4fd9-99ab-1b18a66d53dd")
+	)
+	(wire
+		(pts
+			(xy 264.16 177.8) (xy 266.7 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbeff94a-1efb-4740-a045-00f3385cb403")
+	)
+	(wire
+		(pts
+			(xy 454.66 228.6) (xy 457.2 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd4ca06d-7ba0-4acf-a08a-5904f18e24ad")
+	)
+	(wire
+		(pts
+			(xy 411.48 152.4) (xy 412.75 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd89be16-b3ef-45df-ba0c-0df6f1e0bda1")
+	)
+	(wire
+		(pts
+			(xy 157.48 203.2) (xy 158.75 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be2ee43f-36f7-47f5-b2dd-24be19a633b5")
+	)
+	(wire
+		(pts
+			(xy 264.16 228.6) (xy 266.7 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3539f16-d546-478b-8487-2603b40b4b6a")
+	)
+	(wire
+		(pts
+			(xy 454.66 177.8) (xy 457.2 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c37d6076-6bc4-4408-a32e-09b1225ae89f")
+	)
+	(wire
+		(pts
+			(xy 443.23 203.2) (xy 444.5 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c710a060-191a-4d0b-9790-d39d76cddb5b")
+	)
+	(wire
+		(pts
+			(xy 137.16 152.4) (xy 139.7 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7684817-0225-486f-9092-ed40d4117754")
+	)
+	(wire
+		(pts
+			(xy 93.98 177.8) (xy 95.25 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c84efb67-b9a5-4793-b01c-7cf0fa098792")
+	)
+	(wire
+		(pts
+			(xy 168.91 177.8) (xy 171.45 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc72c9eb-e2df-4f6f-add5-de46fcf7ad19")
+	)
+	(wire
+		(pts
+			(xy 422.91 254) (xy 425.45 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0068f4e-be99-4bf1-b660-ab4a39f63846")
+	)
+	(wire
+		(pts
+			(xy 359.41 254) (xy 361.95 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d29acb04-ac9e-4d96-95a0-927cbab7a73d")
+	)
+	(wire
+		(pts
+			(xy 486.41 152.4) (xy 488.95 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4d7c07a-318b-4447-99cb-140c5f2164ec")
+	)
+	(wire
+		(pts
+			(xy 391.16 177.8) (xy 393.7 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d571320d-8df0-44e6-81d4-62ca15e45f6f")
+	)
+	(wire
+		(pts
 			(xy 476.25 203.2) (xy 476.25 207.01)
 		)
 		(stroke
@@ -460,6 +1670,56 @@
 			(type default)
 		)
 		(uuid "d6b32d0b-80b4-4b52-9b04-d930095b4bab")
+	)
+	(wire
+		(pts
+			(xy 347.98 177.8) (xy 349.25 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d73b32c7-0ed5-4ca4-89b2-c49276152e51")
+	)
+	(wire
+		(pts
+			(xy 284.48 203.2) (xy 285.75 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbb34e9c-7163-4e1b-ada7-8a9fe29d260f")
+	)
+	(wire
+		(pts
+			(xy 137.16 203.2) (xy 139.7 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de028809-d8fa-44ba-ab39-067a0ad17742")
+	)
+	(wire
+		(pts
+			(xy 327.66 152.4) (xy 330.2 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de5757fa-d848-4f40-9ac9-d70bf93fa713")
+	)
+	(wire
+		(pts
+			(xy 443.23 254) (xy 444.5 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ded0a0b8-1abe-47aa-997c-5b026ecb9fe2")
 	)
 	(wire
 		(pts
@@ -473,7 +1733,127 @@
 	)
 	(wire
 		(pts
-			(xy 473.71 203.2) (xy 476.25 203.2)
+			(xy 518.16 254) (xy 520.7 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df8fafd5-53c2-4f19-b228-2a4ea4fdef59")
+	)
+	(wire
+		(pts
+			(xy 506.73 228.6) (xy 508 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0fd4e37-5853-44d4-9eb0-e8e426c07cb8")
+	)
+	(wire
+		(pts
+			(xy 486.41 254) (xy 488.95 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e119bb2d-c4ee-4b8d-9e25-e0de29486495")
+	)
+	(wire
+		(pts
+			(xy 200.66 228.6) (xy 203.2 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1f29a84-5aab-492e-a6a3-ff0c9138e617")
+	)
+	(wire
+		(pts
+			(xy 105.41 228.6) (xy 107.95 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e22a734e-e143-4e06-972f-d960d77e5b2b")
+	)
+	(wire
+		(pts
+			(xy 411.48 177.8) (xy 412.75 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e26325a8-1a92-4d6f-b5c3-a2b3a88d25d7")
+	)
+	(wire
+		(pts
+			(xy 93.98 254) (xy 95.25 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e428e4a1-f562-4ac0-9193-296d9d280db3")
+	)
+	(wire
+		(pts
+			(xy 62.23 254) (xy 63.5 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e43eed4f-8621-4078-ac08-16f063b1fe3b")
+	)
+	(wire
+		(pts
+			(xy 359.41 152.4) (xy 361.95 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e713bcf0-7caa-4dbe-a2dc-693a573fe75f")
+	)
+	(wire
+		(pts
+			(xy 316.23 254) (xy 317.5 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8edeed0-9c94-49dd-90a1-a1701047e614")
+	)
+	(wire
+		(pts
+			(xy 486.41 177.8) (xy 488.95 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9dd7e90-3864-4ce2-946a-2f1529741814")
+	)
+	(wire
+		(pts
+			(xy 93.98 228.6) (xy 95.25 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eaf0ecf1-fa2e-4067-b203-452b72d5602a")
+	)
+	(wire
+		(pts
+			(xy 474.98 203.2) (xy 476.25 203.2)
 		)
 		(stroke
 			(width 0)
@@ -483,13 +1863,53 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 228.6) (xy 63.5 228.6)
+			(xy 62.23 228.6) (xy 63.5 228.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f1abf353-0305-4a73-9c8b-86a2b2254db8")
+	)
+	(wire
+		(pts
+			(xy 518.16 152.4) (xy 520.7 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f29ce4f5-d573-45b5-a7fc-b7442a0a77bc")
+	)
+	(wire
+		(pts
+			(xy 125.73 152.4) (xy 127 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3075123-a523-41bb-bda0-1f84a21073b9")
+	)
+	(wire
+		(pts
+			(xy 474.98 254) (xy 476.25 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4a86c4e-9269-489a-a428-adc60825b565")
+	)
+	(wire
+		(pts
+			(xy 73.66 152.4) (xy 76.2 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5941ae7-1d02-4c6b-ae17-9fa46370ebcc")
 	)
 	(wire
 		(pts
@@ -500,6 +1920,46 @@
 			(type default)
 		)
 		(uuid "f8f92ba7-8f7e-4df1-bb31-f72b85f9e013")
+	)
+	(wire
+		(pts
+			(xy 391.16 228.6) (xy 393.7 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbceb091-2811-4ce5-93ef-528fc6a7fa42")
+	)
+	(wire
+		(pts
+			(xy 264.16 254) (xy 266.7 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd765baf-3d71-4eef-921f-86e0fc4151f1")
+	)
+	(wire
+		(pts
+			(xy 232.41 203.2) (xy 234.95 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fddf797c-8462-4b93-b657-0ad3a27b283c")
+	)
+	(wire
+		(pts
+			(xy 125.73 228.6) (xy 127 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fff04969-560b-4ce7-8260-862ccb71bdc0")
 	)
 	(hierarchical_label "COL7"
 		(shape output)
@@ -558,7 +2018,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 473.71 203.2 180)
+		(at 474.98 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -569,7 +2029,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 129.54 228.6 180)
+		(at 125.73 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -602,7 +2062,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 288.29 254 180)
+		(at 284.48 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -613,7 +2073,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 161.29 228.6 180)
+		(at 157.48 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -646,7 +2106,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 97.79 152.4 180)
+		(at 93.98 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -657,7 +2117,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 60.96 228.6 180)
+		(at 62.23 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -668,7 +2128,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 66.04 177.8 180)
+		(at 62.23 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -679,7 +2139,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 320.04 152.4 180)
+		(at 316.23 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -712,7 +2172,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 320.04 228.6 180)
+		(at 316.23 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -734,7 +2194,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 478.79 152.4 180)
+		(at 474.98 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -756,7 +2216,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 224.79 228.6 180)
+		(at 220.98 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -789,7 +2249,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 351.79 254 180)
+		(at 347.98 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -811,7 +2271,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 320.04 177.8 180)
+		(at 316.23 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -822,7 +2282,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 510.54 254 180)
+		(at 506.73 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -833,7 +2293,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 161.29 152.4 180)
+		(at 157.48 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -844,7 +2304,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 224.79 203.2 180)
+		(at 220.98 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -855,7 +2315,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 510.54 177.8 180)
+		(at 506.73 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -866,7 +2326,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 66.04 254 180)
+		(at 62.23 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -921,7 +2381,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 129.54 254 180)
+		(at 125.73 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -943,7 +2403,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 193.04 177.8 180)
+		(at 189.23 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -954,7 +2414,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 193.04 152.4 180)
+		(at 189.23 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -965,7 +2425,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 224.79 177.8 180)
+		(at 220.98 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -987,7 +2447,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 129.54 152.4 180)
+		(at 125.73 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -998,7 +2458,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 193.04 254 180)
+		(at 189.23 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1009,7 +2469,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 510.54 152.4 180)
+		(at 506.73 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1064,7 +2524,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 383.54 177.8 180)
+		(at 379.73 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1075,7 +2535,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 351.79 228.6 180)
+		(at 347.98 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1086,7 +2546,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 415.29 228.6 180)
+		(at 411.48 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1108,7 +2568,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 447.04 177.8 180)
+		(at 443.23 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1119,7 +2579,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 256.54 228.6 180)
+		(at 252.73 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1130,7 +2590,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 478.79 177.8 180)
+		(at 474.98 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1141,7 +2601,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 288.29 177.8 180)
+		(at 284.48 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1152,7 +2612,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 66.04 203.2 180)
+		(at 62.23 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1218,7 +2678,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 193.04 228.6 180)
+		(at 189.23 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1229,7 +2689,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 224.79 152.4 180)
+		(at 220.98 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1284,7 +2744,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 383.54 152.4 180)
+		(at 379.73 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1295,7 +2755,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 383.54 203.2 180)
+		(at 379.73 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1306,7 +2766,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 415.29 152.4 180)
+		(at 411.48 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1317,7 +2777,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 256.54 203.2 180)
+		(at 252.73 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1361,7 +2821,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 256.54 152.4 180)
+		(at 252.73 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1383,7 +2843,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 97.79 254 180)
+		(at 93.98 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1438,7 +2898,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 351.79 177.8 180)
+		(at 347.98 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1471,7 +2931,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 415.29 203.2 180)
+		(at 411.48 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1493,7 +2953,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 447.04 203.2 180)
+		(at 443.23 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1515,7 +2975,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 256.54 254 180)
+		(at 252.73 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1548,7 +3008,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 351.79 203.2 180)
+		(at 347.98 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1592,7 +3052,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 288.29 228.6 180)
+		(at 284.48 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1614,7 +3074,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 161.29 177.8 180)
+		(at 157.48 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1625,7 +3085,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 66.04 152.4 180)
+		(at 62.23 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1647,7 +3107,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 256.54 177.8 180)
+		(at 252.73 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1658,7 +3118,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 510.54 203.2 180)
+		(at 506.73 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1669,7 +3129,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 447.04 254 180)
+		(at 443.23 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1680,7 +3140,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 193.04 203.2 180)
+		(at 189.23 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1702,7 +3162,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 478.79 228.6 180)
+		(at 474.98 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1713,7 +3173,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 351.79 152.4 180)
+		(at 347.98 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1724,7 +3184,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 383.54 228.6 180)
+		(at 379.73 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1735,7 +3195,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 447.04 228.6 180)
+		(at 443.23 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1757,7 +3217,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 415.29 254 180)
+		(at 411.48 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1790,7 +3250,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 129.54 177.8 180)
+		(at 125.73 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1801,7 +3261,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 97.79 203.2 180)
+		(at 93.98 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1823,7 +3283,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 320.04 254 180)
+		(at 316.23 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1856,7 +3316,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 129.54 203.2 180)
+		(at 125.73 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1878,7 +3338,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 224.79 254 180)
+		(at 220.98 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1922,7 +3382,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 447.04 152.4 180)
+		(at 443.23 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1933,7 +3393,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 320.04 203.2 180)
+		(at 316.23 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1944,7 +3404,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 383.54 254 180)
+		(at 379.73 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1955,7 +3415,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 415.29 177.8 180)
+		(at 411.48 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1966,7 +3426,7 @@
 	)
 	(hierarchical_label "ROW1"
 		(shape input)
-		(at 97.79 177.8 180)
+		(at 93.98 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1977,7 +3437,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 510.54 228.6 180)
+		(at 506.73 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1999,7 +3459,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 478.79 254 180)
+		(at 474.98 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2021,7 +3481,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 288.29 203.2 180)
+		(at 284.48 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2054,7 +3514,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape input)
-		(at 161.29 203.2 180)
+		(at 157.48 203.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2087,7 +3547,7 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape input)
-		(at 97.79 228.6 180)
+		(at 93.98 228.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2120,7 +3580,7 @@
 	)
 	(hierarchical_label "ROW4"
 		(shape input)
-		(at 161.29 254 180)
+		(at 157.48 254 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2131,7 +3591,7 @@
 	)
 	(hierarchical_label "ROW0"
 		(shape input)
-		(at 288.29 152.4 180)
+		(at 284.48 152.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2860,7 +4320,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 452.12 177.8 0)
+		(at 449.58 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2870,7 +4330,7 @@
 		(dnp no)
 		(uuid "132922bb-54f5-4f7f-9fd1-52927aedc3a7")
 		(property "Reference" "SW28"
-			(at 452.12 179.832 0)
+			(at 449.58 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2880,7 +4340,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 452.12 182.372 0)
+			(at 449.58 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2890,7 +4350,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 452.12 172.72 0)
+			(at 449.58 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2901,7 +4361,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 452.12 172.72 0)
+			(at 449.58 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2912,7 +4372,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 452.12 177.8 0)
+			(at 449.58 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2939,7 +4399,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 229.87 177.8 0)
+		(at 227.33 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2949,7 +4409,7 @@
 		(dnp no)
 		(uuid "13a32d6c-a23e-413e-ab36-4190a5466606")
 		(property "Reference" "SW21"
-			(at 229.87 179.832 0)
+			(at 227.33 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2959,7 +4419,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 229.87 182.372 0)
+			(at 227.33 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2969,7 +4429,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 229.87 172.72 0)
+			(at 227.33 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2980,7 +4440,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 172.72 0)
+			(at 227.33 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2991,7 +4451,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 229.87 177.8 0)
+			(at 227.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3018,7 +4478,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 483.87 152.4 0)
+		(at 481.33 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3028,7 +4488,7 @@
 		(dnp no)
 		(uuid "13b86ad9-45a8-4d38-8fcf-c83b5aaa8c1b")
 		(property "Reference" "SW14"
-			(at 483.87 154.432 0)
+			(at 481.33 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3038,7 +4498,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 483.87 156.972 0)
+			(at 481.33 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3048,7 +4508,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_2.00u"
-			(at 483.87 147.32 0)
+			(at 481.33 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3059,7 +4519,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 483.87 147.32 0)
+			(at 481.33 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3070,7 +4530,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 483.87 152.4 0)
+			(at 481.33 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3198,7 +4658,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 102.87 152.4 0)
+		(at 100.33 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3208,7 +4668,7 @@
 		(dnp no)
 		(uuid "16239ff0-de7a-4d33-b365-bb94ea2ed1a2")
 		(property "Reference" "SW2"
-			(at 102.87 154.432 0)
+			(at 100.33 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3218,7 +4678,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 102.87 156.972 0)
+			(at 100.33 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3228,7 +4688,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 102.87 147.32 0)
+			(at 100.33 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3239,7 +4699,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 147.32 0)
+			(at 100.33 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3250,7 +4710,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 102.87 152.4 0)
+			(at 100.33 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3277,7 +4737,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 71.12 203.2 0)
+		(at 68.58 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3287,7 +4747,7 @@
 		(dnp no)
 		(uuid "1701e1d7-8092-402e-bdc8-4d12e33d4816")
 		(property "Reference" "SW31"
-			(at 71.12 205.232 0)
+			(at 68.58 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3297,7 +4757,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 71.12 207.772 0)
+			(at 68.58 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3307,7 +4767,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u"
-			(at 71.12 198.12 0)
+			(at 68.58 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3318,7 +4778,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 198.12 0)
+			(at 68.58 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3329,7 +4789,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 71.12 203.2 0)
+			(at 68.58 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3356,7 +4816,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 325.12 228.6 0)
+		(at 322.58 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3366,7 +4826,7 @@
 		(dnp no)
 		(uuid "17183727-0d47-4431-ab46-86c989e309d3")
 		(property "Reference" "SW54"
-			(at 325.12 230.632 0)
+			(at 322.58 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3376,7 +4836,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 325.12 233.172 0)
+			(at 322.58 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3386,7 +4846,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 325.12 223.52 0)
+			(at 322.58 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3397,7 +4857,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.12 223.52 0)
+			(at 322.58 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3408,7 +4868,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 325.12 228.6 0)
+			(at 322.58 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3435,7 +4895,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 420.37 254 0)
+		(at 417.83 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3445,7 +4905,7 @@
 		(dnp no)
 		(uuid "1803d052-7f3e-48eb-810d-e74b0d3216fc")
 		(property "Reference" "SW72"
-			(at 420.37 256.032 0)
+			(at 417.83 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3455,7 +4915,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 420.37 258.572 0)
+			(at 417.83 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3465,7 +4925,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 420.37 248.92 0)
+			(at 417.83 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3476,7 +4936,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 420.37 248.92 0)
+			(at 417.83 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3487,7 +4947,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 420.37 254 0)
+			(at 417.83 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3615,7 +5075,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 293.37 254 0)
+		(at 290.83 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3625,7 +5085,7 @@
 		(dnp yes)
 		(uuid "19151050-b6fa-4fc5-a731-60359fb615ec")
 		(property "Reference" "SW68"
-			(at 293.37 256.032 0)
+			(at 290.83 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3635,7 +5095,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 293.37 258.572 0)
+			(at 290.83 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3645,7 +5105,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 293.37 248.92 0)
+			(at 290.83 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3656,7 +5116,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 248.92 0)
+			(at 290.83 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3667,7 +5127,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 293.37 254 0)
+			(at 290.83 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3694,7 +5154,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 198.12 228.6 0)
+		(at 195.58 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3704,7 +5164,7 @@
 		(dnp no)
 		(uuid "192a3e14-4c38-48fe-9135-3dd64697b62b")
 		(property "Reference" "SW50"
-			(at 198.12 230.632 0)
+			(at 195.58 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3714,7 +5174,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 198.12 233.172 0)
+			(at 195.58 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3724,7 +5184,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 198.12 223.52 0)
+			(at 195.58 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3735,7 +5195,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 223.52 0)
+			(at 195.58 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3746,7 +5206,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 198.12 228.6 0)
+			(at 195.58 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3773,7 +5233,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 483.87 177.8 0)
+		(at 481.33 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3782,8 +5242,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a6e5daa-92a3-4fbb-8c2c-664b991b5d2d")
-		(property "Reference" "SW29_0"
-			(at 483.87 179.832 0)
+		(property "Reference" "SW29_ANSI"
+			(at 481.33 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3793,7 +5253,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 483.87 182.372 0)
+			(at 481.33 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3803,7 +5263,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
-			(at 483.87 172.72 0)
+			(at 481.33 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3814,7 +5274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 483.87 172.72 0)
+			(at 481.33 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3825,7 +5285,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 483.87 177.8 0)
+			(at 481.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3844,7 +5304,7 @@
 		(instances
 			(project "gr65"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855/ae07fa73-477f-4f86-8492-feb62fd89d27"
-					(reference "SW29_0")
+					(reference "SW29_ANSI")
 					(unit 1)
 				)
 			)
@@ -3953,7 +5413,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 198.12 177.8 0)
+		(at 195.58 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3963,7 +5423,7 @@
 		(dnp no)
 		(uuid "22914523-717c-4ccb-b6a1-bc8b1c77d5f6")
 		(property "Reference" "SW20"
-			(at 198.12 179.832 0)
+			(at 195.58 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3973,7 +5433,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 198.12 182.372 0)
+			(at 195.58 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3983,7 +5443,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 198.12 172.72 0)
+			(at 195.58 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3994,7 +5454,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 172.72 0)
+			(at 195.58 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4005,7 +5465,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 198.12 177.8 0)
+			(at 195.58 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4032,7 +5492,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 134.62 228.6 0)
+		(at 132.08 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4042,7 +5502,7 @@
 		(dnp no)
 		(uuid "26e98820-f11f-46c0-8e26-f7753a76acb9")
 		(property "Reference" "SW48"
-			(at 134.62 230.632 0)
+			(at 132.08 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4052,7 +5512,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 134.62 233.172 0)
+			(at 132.08 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4062,7 +5522,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 134.62 223.52 0)
+			(at 132.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4073,7 +5533,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 223.52 0)
+			(at 132.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4084,7 +5544,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 134.62 228.6 0)
+			(at 132.08 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4111,7 +5571,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 166.37 228.6 0)
+		(at 163.83 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4121,7 +5581,7 @@
 		(dnp no)
 		(uuid "2d0cad0d-d04c-417c-8ec2-f800611e7127")
 		(property "Reference" "SW49"
-			(at 166.37 230.632 0)
+			(at 163.83 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4131,7 +5591,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 166.37 233.172 0)
+			(at 163.83 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4141,7 +5601,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 166.37 223.52 0)
+			(at 163.83 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4152,7 +5612,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 223.52 0)
+			(at 163.83 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4163,7 +5623,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 166.37 228.6 0)
+			(at 163.83 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4190,7 +5650,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 102.87 254 0)
+		(at 100.33 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4200,7 +5660,7 @@
 		(dnp no)
 		(uuid "2d8ba71c-8aa9-4d4a-bbfc-64a0a34b7f25")
 		(property "Reference" "SW62"
-			(at 102.87 256.032 0)
+			(at 100.33 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4210,7 +5670,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 102.87 258.572 0)
+			(at 100.33 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4220,7 +5680,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
-			(at 102.87 248.92 0)
+			(at 100.33 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4231,7 +5691,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 248.92 0)
+			(at 100.33 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4242,7 +5702,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 102.87 254 0)
+			(at 100.33 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4269,7 +5729,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 293.37 203.2 0)
+		(at 290.83 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4279,7 +5739,7 @@
 		(dnp no)
 		(uuid "2df43632-f4c7-4c70-9c62-8bb84ab705a9")
 		(property "Reference" "SW38"
-			(at 293.37 205.232 0)
+			(at 290.83 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4289,7 +5749,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 293.37 207.772 0)
+			(at 290.83 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4299,7 +5759,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 293.37 198.12 0)
+			(at 290.83 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4310,7 +5770,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 198.12 0)
+			(at 290.83 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4321,7 +5781,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 293.37 203.2 0)
+			(at 290.83 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4449,7 +5909,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 166.37 203.2 0)
+		(at 163.83 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4459,7 +5919,7 @@
 		(dnp no)
 		(uuid "3282df71-6cb9-49ae-8591-2e1a80fdd4ef")
 		(property "Reference" "SW34"
-			(at 166.37 205.232 0)
+			(at 163.83 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4469,7 +5929,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 166.37 207.772 0)
+			(at 163.83 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4479,7 +5939,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 166.37 198.12 0)
+			(at 163.83 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4490,7 +5950,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 198.12 0)
+			(at 163.83 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4501,7 +5961,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 166.37 203.2 0)
+			(at 163.83 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4528,7 +5988,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 166.37 177.8 0)
+		(at 163.83 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4538,7 +5998,7 @@
 		(dnp no)
 		(uuid "35e14b7a-c00c-4262-9f9e-6a143bddfe8c")
 		(property "Reference" "SW19"
-			(at 166.37 179.832 0)
+			(at 163.83 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4548,7 +6008,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 166.37 182.372 0)
+			(at 163.83 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4558,7 +6018,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 166.37 172.72 0)
+			(at 163.83 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4569,7 +6029,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 172.72 0)
+			(at 163.83 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4580,7 +6040,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 166.37 177.8 0)
+			(at 163.83 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4607,7 +6067,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 388.62 254 0)
+		(at 386.08 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4617,7 +6077,7 @@
 		(dnp no)
 		(uuid "360d1db7-0523-485e-bc1a-fcd961e8e587")
 		(property "Reference" "SW71"
-			(at 388.62 256.032 0)
+			(at 386.08 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4627,7 +6087,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 388.62 258.572 0)
+			(at 386.08 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4637,7 +6097,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 388.62 248.92 0)
+			(at 386.08 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4648,7 +6108,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 388.62 248.92 0)
+			(at 386.08 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4659,7 +6119,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 388.62 254 0)
+			(at 386.08 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4686,7 +6146,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 229.87 203.2 0)
+		(at 227.33 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4696,7 +6156,7 @@
 		(dnp no)
 		(uuid "3615c7af-7bd1-4975-8855-3a728c4741af")
 		(property "Reference" "SW36"
-			(at 229.87 205.232 0)
+			(at 227.33 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4706,7 +6166,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 229.87 207.772 0)
+			(at 227.33 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4716,7 +6176,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 229.87 198.12 0)
+			(at 227.33 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4727,7 +6187,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 198.12 0)
+			(at 227.33 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4738,7 +6198,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 229.87 203.2 0)
+			(at 227.33 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4967,7 +6427,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 483.87 228.6 0)
+		(at 481.33 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4977,7 +6437,7 @@
 		(dnp no)
 		(uuid "3b9034a8-0d9d-426e-a467-be41e0d80181")
 		(property "Reference" "SW59"
-			(at 483.87 230.632 0)
+			(at 481.33 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4987,7 +6447,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 483.87 233.172 0)
+			(at 481.33 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4997,7 +6457,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 483.87 223.52 0)
+			(at 481.33 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5008,7 +6468,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 483.87 223.52 0)
+			(at 481.33 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5019,7 +6479,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 483.87 228.6 0)
+			(at 481.33 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5046,7 +6506,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 166.37 254 0)
+		(at 163.83 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5056,7 +6516,7 @@
 		(dnp yes)
 		(uuid "3c5142cb-c403-4801-b58a-13bbfd9ea25c")
 		(property "Reference" "SW64"
-			(at 166.37 256.032 0)
+			(at 163.83 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5066,7 +6526,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 166.37 258.572 0)
+			(at 163.83 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5076,7 +6536,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 166.37 248.92 0)
+			(at 163.83 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5087,7 +6547,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 248.92 0)
+			(at 163.83 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5098,7 +6558,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 166.37 254 0)
+			(at 163.83 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5125,7 +6585,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 452.12 228.6 0)
+		(at 449.58 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5135,7 +6595,7 @@
 		(dnp no)
 		(uuid "3efce3cb-9e12-4ec4-8634-5ee9d6cc3fac")
 		(property "Reference" "SW58"
-			(at 452.12 230.632 0)
+			(at 449.58 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5145,7 +6605,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 452.12 233.172 0)
+			(at 449.58 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5155,7 +6615,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.75u"
-			(at 452.12 223.52 0)
+			(at 449.58 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5166,7 +6626,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 452.12 223.52 0)
+			(at 449.58 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5177,7 +6637,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 452.12 228.6 0)
+			(at 449.58 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5204,7 +6664,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 515.62 228.6 0)
+		(at 513.08 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5214,7 +6674,7 @@
 		(dnp no)
 		(uuid "3fba23c5-8ccd-41c0-bd65-245c213f583f")
 		(property "Reference" "SW60"
-			(at 515.62 230.632 0)
+			(at 513.08 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5224,7 +6684,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 515.62 233.172 0)
+			(at 513.08 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5234,7 +6694,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 515.62 223.52 0)
+			(at 513.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5245,7 +6705,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 515.62 223.52 0)
+			(at 513.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5256,7 +6716,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 515.62 228.6 0)
+			(at 513.08 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5586,7 +7046,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 356.87 177.8 0)
+		(at 354.33 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5596,7 +7056,7 @@
 		(dnp no)
 		(uuid "461d32b6-40db-44d8-956b-321e58c56504")
 		(property "Reference" "SW25"
-			(at 356.87 179.832 0)
+			(at 354.33 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5606,7 +7066,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 356.87 182.372 0)
+			(at 354.33 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5616,7 +7076,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 356.87 172.72 0)
+			(at 354.33 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5627,7 +7087,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 172.72 0)
+			(at 354.33 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5638,7 +7098,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 356.87 177.8 0)
+			(at 354.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5665,7 +7125,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 134.62 177.8 0)
+		(at 132.08 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5675,7 +7135,7 @@
 		(dnp no)
 		(uuid "46e4a2c7-f902-4f05-8be4-3d31764b2cf0")
 		(property "Reference" "SW18"
-			(at 134.62 179.832 0)
+			(at 132.08 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5685,7 +7145,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 134.62 182.372 0)
+			(at 132.08 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5695,7 +7155,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 134.62 172.72 0)
+			(at 132.08 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5706,7 +7166,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 172.72 0)
+			(at 132.08 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5717,7 +7177,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 134.62 177.8 0)
+			(at 132.08 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5753,7 +7213,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "47773474-9587-4833-9dfb-ba27673a54fc")
-		(property "Reference" "SW44_1"
+		(property "Reference" "SW44_ANSI"
 			(at 481.33 209.042 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5815,7 +7275,7 @@
 		(instances
 			(project "gr65"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855/ae07fa73-477f-4f86-8492-feb62fd89d27"
-					(reference "SW44_1")
+					(reference "SW44_ANSI")
 					(unit 1)
 				)
 			)
@@ -5823,7 +7283,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 134.62 152.4 0)
+		(at 132.08 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5833,7 +7293,7 @@
 		(dnp no)
 		(uuid "48204dc6-b1a8-4100-a1ba-b8c89e3dac8c")
 		(property "Reference" "SW3"
-			(at 134.62 154.432 0)
+			(at 132.08 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5843,7 +7303,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 134.62 156.972 0)
+			(at 132.08 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5853,7 +7313,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 134.62 147.32 0)
+			(at 132.08 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5864,7 +7324,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 147.32 0)
+			(at 132.08 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5875,7 +7335,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 134.62 152.4 0)
+			(at 132.08 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5902,7 +7362,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 261.62 228.6 0)
+		(at 259.08 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5912,7 +7372,7 @@
 		(dnp no)
 		(uuid "48a05835-6f8d-4796-b77d-a41a46e5933f")
 		(property "Reference" "SW52"
-			(at 261.62 230.632 0)
+			(at 259.08 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5922,7 +7382,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 261.62 233.172 0)
+			(at 259.08 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5932,7 +7392,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 261.62 223.52 0)
+			(at 259.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5943,7 +7403,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 223.52 0)
+			(at 259.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5954,7 +7414,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 261.62 228.6 0)
+			(at 259.08 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6587,7 +8047,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 356.87 203.2 0)
+		(at 354.33 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6597,7 +8057,7 @@
 		(dnp no)
 		(uuid "53c2f5c6-8b1f-4c57-a124-2bb69717284f")
 		(property "Reference" "SW40"
-			(at 356.87 205.232 0)
+			(at 354.33 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6607,7 +8067,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 356.87 207.772 0)
+			(at 354.33 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6617,7 +8077,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 356.87 198.12 0)
+			(at 354.33 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6628,7 +8088,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 198.12 0)
+			(at 354.33 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6639,7 +8099,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 356.87 203.2 0)
+			(at 354.33 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6868,7 +8328,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 483.87 254 0)
+		(at 481.33 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6878,7 +8338,7 @@
 		(dnp no)
 		(uuid "556c105d-d2a2-4625-b20d-86f61d2ca101")
 		(property "Reference" "SW74"
-			(at 483.87 256.032 0)
+			(at 481.33 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6888,7 +8348,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 483.87 258.572 0)
+			(at 481.33 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6898,7 +8358,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 483.87 248.92 0)
+			(at 481.33 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6909,7 +8369,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 483.87 248.92 0)
+			(at 481.33 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6920,7 +8380,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 483.87 254 0)
+			(at 481.33 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7048,7 +8508,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 229.87 228.6 0)
+		(at 227.33 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7058,7 +8518,7 @@
 		(dnp no)
 		(uuid "5782de5f-b3de-4344-98e4-7ae8ae63b93e")
 		(property "Reference" "SW51"
-			(at 229.87 230.632 0)
+			(at 227.33 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7068,7 +8528,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 229.87 233.172 0)
+			(at 227.33 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7078,7 +8538,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 229.87 223.52 0)
+			(at 227.33 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7089,7 +8549,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 223.52 0)
+			(at 227.33 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7100,7 +8560,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 229.87 228.6 0)
+			(at 227.33 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7430,7 +8890,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 229.87 254 0)
+		(at 227.33 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7440,7 +8900,7 @@
 		(dnp yes)
 		(uuid "5e0bb1c2-131f-462c-a856-4183152f7b97")
 		(property "Reference" "SW66"
-			(at 229.87 256.032 0)
+			(at 227.33 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7450,7 +8910,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 229.87 258.572 0)
+			(at 227.33 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7460,7 +8920,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 229.87 248.92 0)
+			(at 227.33 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7471,7 +8931,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 248.92 0)
+			(at 227.33 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7482,7 +8942,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 229.87 254 0)
+			(at 227.33 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7610,7 +9070,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 420.37 152.4 0)
+		(at 417.83 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7620,7 +9080,7 @@
 		(dnp no)
 		(uuid "5e67a91c-a4e9-491e-a687-7c159bc554d4")
 		(property "Reference" "SW12"
-			(at 420.37 154.432 0)
+			(at 417.83 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7630,7 +9090,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 420.37 156.972 0)
+			(at 417.83 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7640,7 +9100,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 420.37 147.32 0)
+			(at 417.83 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7651,7 +9111,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 420.37 147.32 0)
+			(at 417.83 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7662,7 +9122,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 420.37 152.4 0)
+			(at 417.83 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7790,7 +9250,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 515.62 254 0)
+		(at 513.08 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7800,7 +9260,7 @@
 		(dnp no)
 		(uuid "5eb4ae4a-f02d-44db-8ba3-03a2778126cd")
 		(property "Reference" "SW75"
-			(at 515.62 256.032 0)
+			(at 513.08 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7810,7 +9270,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 515.62 258.572 0)
+			(at 513.08 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7820,7 +9280,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 515.62 248.92 0)
+			(at 513.08 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7831,7 +9291,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 515.62 248.92 0)
+			(at 513.08 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7842,7 +9302,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 515.62 254 0)
+			(at 513.08 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8273,7 +9733,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 261.62 152.4 0)
+		(at 259.08 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8283,7 +9743,7 @@
 		(dnp no)
 		(uuid "691b91bb-79b7-4078-af19-188b04fee66b")
 		(property "Reference" "SW7"
-			(at 261.62 154.432 0)
+			(at 259.08 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8293,7 +9753,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 261.62 156.972 0)
+			(at 259.08 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8303,7 +9763,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 261.62 147.32 0)
+			(at 259.08 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8314,7 +9774,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 147.32 0)
+			(at 259.08 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8325,7 +9785,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 261.62 152.4 0)
+			(at 259.08 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8352,7 +9812,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 261.62 203.2 0)
+		(at 259.08 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8362,7 +9822,7 @@
 		(dnp no)
 		(uuid "6955f1f7-e21e-4c5c-af2f-e026f57bf78a")
 		(property "Reference" "SW37"
-			(at 261.62 205.232 0)
+			(at 259.08 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8372,7 +9832,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 261.62 207.772 0)
+			(at 259.08 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8382,7 +9842,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 261.62 198.12 0)
+			(at 259.08 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8393,7 +9853,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 198.12 0)
+			(at 259.08 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8404,7 +9864,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 261.62 203.2 0)
+			(at 259.08 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8633,7 +10093,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 293.37 152.4 0)
+		(at 290.83 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8643,7 +10103,7 @@
 		(dnp no)
 		(uuid "6b136e4e-8ff5-4ab8-ad96-b070b95dabe5")
 		(property "Reference" "SW8"
-			(at 293.37 154.432 0)
+			(at 290.83 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8653,7 +10113,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 293.37 156.972 0)
+			(at 290.83 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8663,7 +10123,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 293.37 147.32 0)
+			(at 290.83 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8674,7 +10134,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 147.32 0)
+			(at 290.83 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8685,7 +10145,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 293.37 152.4 0)
+			(at 290.83 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8712,7 +10172,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 134.62 254 0)
+		(at 132.08 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8722,7 +10182,7 @@
 		(dnp no)
 		(uuid "6c42c4c1-7d2b-4497-9329-3ff1b2c3d1b0")
 		(property "Reference" "SW63"
-			(at 134.62 256.032 0)
+			(at 132.08 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8732,7 +10192,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 134.62 258.572 0)
+			(at 132.08 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8742,7 +10202,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
-			(at 134.62 248.92 0)
+			(at 132.08 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8753,7 +10213,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 248.92 0)
+			(at 132.08 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8764,7 +10224,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 134.62 254 0)
+			(at 132.08 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8993,7 +10453,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 71.12 177.8 0)
+		(at 68.58 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9003,7 +10463,7 @@
 		(dnp no)
 		(uuid "74e617fb-7358-4e2b-8e58-27016fd2e462")
 		(property "Reference" "SW16"
-			(at 71.12 179.832 0)
+			(at 68.58 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9013,7 +10473,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 71.12 182.372 0)
+			(at 68.58 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9023,7 +10483,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.50u"
-			(at 71.12 172.72 0)
+			(at 68.58 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9034,7 +10494,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 172.72 0)
+			(at 68.58 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9045,7 +10505,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 71.12 177.8 0)
+			(at 68.58 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9173,7 +10633,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 71.12 254 0)
+		(at 68.58 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9183,7 +10643,7 @@
 		(dnp no)
 		(uuid "75c6e287-2ed6-49a0-aa2b-20043bbe7cd0")
 		(property "Reference" "SW61"
-			(at 71.12 256.032 0)
+			(at 68.58 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9193,7 +10653,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 71.12 258.572 0)
+			(at 68.58 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9203,7 +10663,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.25u"
-			(at 71.12 248.92 0)
+			(at 68.58 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9214,7 +10674,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 248.92 0)
+			(at 68.58 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9225,7 +10685,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 71.12 254 0)
+			(at 68.58 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9564,7 +11024,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "803f488f-06b5-4613-8c88-e48275d2ab40")
-		(property "Reference" "SW46_1"
+		(property "Reference" "SW46_ANSI"
 			(at 68.58 234.442 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9626,7 +11086,7 @@
 		(instances
 			(project "gr65"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855/ae07fa73-477f-4f86-8492-feb62fd89d27"
-					(reference "SW46_1")
+					(reference "SW46_ANSI")
 					(unit 1)
 				)
 			)
@@ -9634,7 +11094,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 356.87 152.4 0)
+		(at 354.33 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9644,7 +11104,7 @@
 		(dnp no)
 		(uuid "810629bc-ed94-49cc-b49a-62d1141c196a")
 		(property "Reference" "SW10"
-			(at 356.87 154.432 0)
+			(at 354.33 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9654,7 +11114,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 356.87 156.972 0)
+			(at 354.33 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9664,7 +11124,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 356.87 147.32 0)
+			(at 354.33 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9675,7 +11135,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 147.32 0)
+			(at 354.33 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9686,7 +11146,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 356.87 152.4 0)
+			(at 354.33 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9814,7 +11274,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 102.87 177.8 0)
+		(at 100.33 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9824,7 +11284,7 @@
 		(dnp no)
 		(uuid "83beef92-5874-4059-b6b1-c53eb102f250")
 		(property "Reference" "SW17"
-			(at 102.87 179.832 0)
+			(at 100.33 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9834,7 +11294,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 102.87 182.372 0)
+			(at 100.33 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9844,7 +11304,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 102.87 172.72 0)
+			(at 100.33 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9855,7 +11315,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 172.72 0)
+			(at 100.33 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9866,7 +11326,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 102.87 177.8 0)
+			(at 100.33 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9994,7 +11454,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 261.62 254 0)
+		(at 259.08 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10004,7 +11464,7 @@
 		(dnp no)
 		(uuid "84d27744-e4c6-46d0-a705-03632d69ca34")
 		(property "Reference" "SW67"
-			(at 261.62 256.032 0)
+			(at 259.08 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10014,7 +11474,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 261.62 258.572 0)
+			(at 259.08 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10024,7 +11484,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_6.25u"
-			(at 261.62 248.92 0)
+			(at 259.08 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10035,7 +11495,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 248.92 0)
+			(at 259.08 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10046,7 +11506,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 261.62 254 0)
+			(at 259.08 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10082,7 +11542,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "889cbd37-f70b-4495-ac51-1814381dc906")
-		(property "Reference" "SW46_0"
+		(property "Reference" "SW46_ISO"
 			(at 68.58 224.282 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10144,7 +11604,7 @@
 		(instances
 			(project "gr65"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855/ae07fa73-477f-4f86-8492-feb62fd89d27"
-					(reference "SW46_0")
+					(reference "SW46_ISO")
 					(unit 1)
 				)
 			)
@@ -10152,7 +11612,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 388.62 152.4 0)
+		(at 386.08 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10162,7 +11622,7 @@
 		(dnp no)
 		(uuid "88f18e34-ce0b-44d5-b48c-8f005fa96a1b")
 		(property "Reference" "SW11"
-			(at 388.62 154.432 0)
+			(at 386.08 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10172,7 +11632,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 388.62 156.972 0)
+			(at 386.08 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10182,7 +11642,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 388.62 147.32 0)
+			(at 386.08 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10193,7 +11653,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 388.62 147.32 0)
+			(at 386.08 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10204,7 +11664,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 388.62 152.4 0)
+			(at 386.08 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10231,7 +11691,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 102.87 203.2 0)
+		(at 100.33 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10241,7 +11701,7 @@
 		(dnp no)
 		(uuid "8cd33836-6d29-440a-af37-d29533301fe8")
 		(property "Reference" "SW32"
-			(at 102.87 205.232 0)
+			(at 100.33 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10251,7 +11711,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 102.87 207.772 0)
+			(at 100.33 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10261,7 +11721,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 102.87 198.12 0)
+			(at 100.33 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10272,7 +11732,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 198.12 0)
+			(at 100.33 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10283,7 +11743,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 102.87 203.2 0)
+			(at 100.33 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10512,7 +11972,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 293.37 228.6 0)
+		(at 290.83 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10522,7 +11982,7 @@
 		(dnp no)
 		(uuid "91c609b6-0b23-45fe-8223-ccecf75a999a")
 		(property "Reference" "SW53"
-			(at 293.37 230.632 0)
+			(at 290.83 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10532,7 +11992,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 293.37 233.172 0)
+			(at 290.83 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10542,7 +12002,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 293.37 223.52 0)
+			(at 290.83 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10553,7 +12013,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 223.52 0)
+			(at 290.83 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10564,7 +12024,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 293.37 228.6 0)
+			(at 290.83 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10591,7 +12051,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 356.87 254 0)
+		(at 354.33 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10601,7 +12061,7 @@
 		(dnp no)
 		(uuid "92103d1f-3fef-40eb-9176-a15b090d75d5")
 		(property "Reference" "SW70"
-			(at 356.87 256.032 0)
+			(at 354.33 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10611,7 +12071,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 356.87 258.572 0)
+			(at 354.33 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10621,7 +12081,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 356.87 248.92 0)
+			(at 354.33 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10632,7 +12092,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 248.92 0)
+			(at 354.33 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10643,7 +12103,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 356.87 254 0)
+			(at 354.33 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10670,7 +12130,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 388.62 177.8 0)
+		(at 386.08 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10680,7 +12140,7 @@
 		(dnp no)
 		(uuid "93a46865-3704-4029-b66e-5391cdbd1ad1")
 		(property "Reference" "SW26"
-			(at 388.62 179.832 0)
+			(at 386.08 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10690,7 +12150,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 388.62 182.372 0)
+			(at 386.08 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10700,7 +12160,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 388.62 172.72 0)
+			(at 386.08 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10711,7 +12171,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 388.62 172.72 0)
+			(at 386.08 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10722,7 +12182,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 388.62 177.8 0)
+			(at 386.08 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11153,7 +12613,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 388.62 203.2 0)
+		(at 386.08 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11163,7 +12623,7 @@
 		(dnp no)
 		(uuid "9cd90a9d-6902-4b9a-8dad-1543a3ef82d8")
 		(property "Reference" "SW41"
-			(at 388.62 205.232 0)
+			(at 386.08 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11173,7 +12633,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 388.62 207.772 0)
+			(at 386.08 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11183,7 +12643,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 388.62 198.12 0)
+			(at 386.08 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11194,7 +12654,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 388.62 198.12 0)
+			(at 386.08 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11205,7 +12665,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 388.62 203.2 0)
+			(at 386.08 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11333,7 +12793,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 198.12 203.2 0)
+		(at 195.58 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11343,7 +12803,7 @@
 		(dnp no)
 		(uuid "9f9b3db3-5c2e-4698-9446-f3939deeeebe")
 		(property "Reference" "SW35"
-			(at 198.12 205.232 0)
+			(at 195.58 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11353,7 +12813,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 198.12 207.772 0)
+			(at 195.58 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11363,7 +12823,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 198.12 198.12 0)
+			(at 195.58 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11374,7 +12834,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 198.12 0)
+			(at 195.58 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11385,7 +12845,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 198.12 203.2 0)
+			(at 195.58 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11513,7 +12973,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 134.62 203.2 0)
+		(at 132.08 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11523,7 +12983,7 @@
 		(dnp no)
 		(uuid "a427dd6f-65d4-4f86-b770-3b1da1e61359")
 		(property "Reference" "SW33"
-			(at 134.62 205.232 0)
+			(at 132.08 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11533,7 +12993,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 134.62 207.772 0)
+			(at 132.08 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11543,7 +13003,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 134.62 198.12 0)
+			(at 132.08 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11554,7 +13014,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 198.12 0)
+			(at 132.08 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11565,7 +13025,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 134.62 203.2 0)
+			(at 132.08 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11592,7 +13052,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 452.12 152.4 0)
+		(at 449.58 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11602,7 +13062,7 @@
 		(dnp no)
 		(uuid "a63819d3-613b-453b-ba25-728e1e8dc727")
 		(property "Reference" "SW13"
-			(at 452.12 154.432 0)
+			(at 449.58 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11612,7 +13072,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 452.12 156.972 0)
+			(at 449.58 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11622,7 +13082,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 452.12 147.32 0)
+			(at 449.58 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11633,7 +13093,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 452.12 147.32 0)
+			(at 449.58 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11644,7 +13104,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 452.12 152.4 0)
+			(at 449.58 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11772,7 +13232,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 261.62 177.8 0)
+		(at 259.08 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11782,7 +13242,7 @@
 		(dnp no)
 		(uuid "a8b20fc2-a54e-49cf-8f1c-7fe89f042e48")
 		(property "Reference" "SW22"
-			(at 261.62 179.832 0)
+			(at 259.08 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11792,7 +13252,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 261.62 182.372 0)
+			(at 259.08 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11802,7 +13262,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 261.62 172.72 0)
+			(at 259.08 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11813,7 +13273,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 172.72 0)
+			(at 259.08 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11824,7 +13284,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 261.62 177.8 0)
+			(at 259.08 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11952,7 +13412,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 325.12 254 0)
+		(at 322.58 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11962,7 +13422,7 @@
 		(dnp yes)
 		(uuid "adf1fcea-3501-4b0d-ae37-77ff549c6dab")
 		(property "Reference" "SW69"
-			(at 325.12 256.032 0)
+			(at 322.58 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11972,7 +13432,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 325.12 258.572 0)
+			(at 322.58 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11982,7 +13442,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 325.12 248.92 0)
+			(at 322.58 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11993,7 +13453,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.12 248.92 0)
+			(at 322.58 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12004,7 +13464,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 325.12 254 0)
+			(at 322.58 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12233,7 +13693,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 420.37 228.6 0)
+		(at 417.83 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12243,7 +13703,7 @@
 		(dnp yes)
 		(uuid "b230f7db-38a0-4f3d-a53e-92fc92c2e99b")
 		(property "Reference" "SW57"
-			(at 420.37 230.632 0)
+			(at 417.83 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12253,7 +13713,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 420.37 233.172 0)
+			(at 417.83 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12263,7 +13723,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 420.37 223.52 0)
+			(at 417.83 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12274,7 +13734,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 420.37 223.52 0)
+			(at 417.83 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12285,7 +13745,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 420.37 228.6 0)
+			(at 417.83 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12312,7 +13772,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 388.62 228.6 0)
+		(at 386.08 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12322,7 +13782,7 @@
 		(dnp no)
 		(uuid "b53c99cf-3db7-40c0-be94-41fff97dbf2d")
 		(property "Reference" "SW56"
-			(at 388.62 230.632 0)
+			(at 386.08 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12332,7 +13792,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 388.62 233.172 0)
+			(at 386.08 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12342,7 +13802,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 388.62 223.52 0)
+			(at 386.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12353,7 +13813,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 388.62 223.52 0)
+			(at 386.08 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12364,7 +13824,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 388.62 228.6 0)
+			(at 386.08 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12391,7 +13851,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 515.62 203.2 0)
+		(at 513.08 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12401,7 +13861,7 @@
 		(dnp no)
 		(uuid "b9dc6376-e56a-47ad-82d2-95073f986bcc")
 		(property "Reference" "SW45"
-			(at 515.62 205.232 0)
+			(at 513.08 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12411,7 +13871,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 515.62 207.772 0)
+			(at 513.08 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12421,7 +13881,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 515.62 198.12 0)
+			(at 513.08 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12432,7 +13892,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 515.62 198.12 0)
+			(at 513.08 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12443,7 +13903,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 515.62 203.2 0)
+			(at 513.08 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12470,7 +13930,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 71.12 152.4 0)
+		(at 68.58 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12480,7 +13940,7 @@
 		(dnp no)
 		(uuid "bbf37670-7ee0-4ade-bb04-1b3e5f423264")
 		(property "Reference" "SW1"
-			(at 71.12 154.432 0)
+			(at 68.58 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12490,7 +13950,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 71.12 156.972 0)
+			(at 68.58 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12500,7 +13960,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 71.12 147.32 0)
+			(at 68.58 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12511,7 +13971,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 147.32 0)
+			(at 68.58 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12522,7 +13982,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 71.12 152.4 0)
+			(at 68.58 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12650,7 +14110,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 452.12 203.2 0)
+		(at 449.58 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12659,8 +14119,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bed63e6d-c7c5-480e-a846-603cbb092897")
-		(property "Reference" "SW43_1"
-			(at 452.12 205.232 0)
+		(property "Reference" "SW43_ISO"
+			(at 449.58 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12670,7 +14130,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 452.12 207.772 0)
+			(at 449.58 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12680,7 +14140,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 452.12 198.12 0)
+			(at 449.58 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12691,7 +14151,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 452.12 198.12 0)
+			(at 449.58 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12702,7 +14162,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 452.12 203.2 0)
+			(at 449.58 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12721,7 +14181,7 @@
 		(instances
 			(project "gr65"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855/ae07fa73-477f-4f86-8492-feb62fd89d27"
-					(reference "SW43_1")
+					(reference "SW43_ISO")
 					(unit 1)
 				)
 			)
@@ -12729,7 +14189,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 515.62 152.4 0)
+		(at 513.08 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12739,7 +14199,7 @@
 		(dnp no)
 		(uuid "c0d3a113-c3ed-41f7-a53a-c98cf2fc4f66")
 		(property "Reference" "SW15"
-			(at 515.62 154.432 0)
+			(at 513.08 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12749,7 +14209,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 515.62 156.972 0)
+			(at 513.08 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12759,7 +14219,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 515.62 147.32 0)
+			(at 513.08 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12770,7 +14230,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 515.62 147.32 0)
+			(at 513.08 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12781,7 +14241,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 515.62 152.4 0)
+			(at 513.08 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12817,7 +14277,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c141eb3d-6147-49f6-9875-95ce8c61fa4a")
-		(property "Reference" "SW44_0"
+		(property "Reference" "SW44_ISO"
 			(at 481.33 198.882 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12879,7 +14339,7 @@
 		(instances
 			(project "gr65"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855/ae07fa73-477f-4f86-8492-feb62fd89d27"
-					(reference "SW44_0")
+					(reference "SW44_ISO")
 					(unit 1)
 				)
 			)
@@ -13392,7 +14852,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 325.12 203.2 0)
+		(at 322.58 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13402,7 +14862,7 @@
 		(dnp no)
 		(uuid "cbdafc71-ee9a-4ea6-9c2d-e78505420e57")
 		(property "Reference" "SW39"
-			(at 325.12 205.232 0)
+			(at 322.58 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13412,7 +14872,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 325.12 207.772 0)
+			(at 322.58 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13422,7 +14882,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 325.12 198.12 0)
+			(at 322.58 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13433,7 +14893,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.12 198.12 0)
+			(at 322.58 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13444,7 +14904,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 325.12 203.2 0)
+			(at 322.58 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13572,7 +15032,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 198.12 152.4 0)
+		(at 195.58 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13582,7 +15042,7 @@
 		(dnp no)
 		(uuid "cebebf80-e8ad-49e1-af43-992fabbcd336")
 		(property "Reference" "SW5"
-			(at 198.12 154.432 0)
+			(at 195.58 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13592,7 +15052,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 198.12 156.972 0)
+			(at 195.58 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13602,7 +15062,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 198.12 147.32 0)
+			(at 195.58 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13613,7 +15073,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 147.32 0)
+			(at 195.58 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13624,7 +15084,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 198.12 152.4 0)
+			(at 195.58 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13752,7 +15212,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 102.87 228.6 0)
+		(at 100.33 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13761,8 +15221,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf99eb39-23f4-4b26-aaa2-b42cafe88ec6")
-		(property "Reference" "SW47_1"
-			(at 102.87 230.632 0)
+		(property "Reference" "SW47_ISO"
+			(at 100.33 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13772,7 +15232,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 102.87 233.172 0)
+			(at 100.33 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13782,7 +15242,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 102.87 223.52 0)
+			(at 100.33 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13793,7 +15253,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 223.52 0)
+			(at 100.33 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13804,7 +15264,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 102.87 228.6 0)
+			(at 100.33 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13823,7 +15283,7 @@
 		(instances
 			(project "gr65"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855/ae07fa73-477f-4f86-8492-feb62fd89d27"
-					(reference "SW47_1")
+					(reference "SW47_ISO")
 					(unit 1)
 				)
 			)
@@ -13932,7 +15392,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 452.12 254 0)
+		(at 449.58 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13942,7 +15402,7 @@
 		(dnp no)
 		(uuid "d1bd0f1c-2721-4613-be1a-377cc553bec2")
 		(property "Reference" "SW73"
-			(at 452.12 256.032 0)
+			(at 449.58 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13952,7 +15412,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 452.12 258.572 0)
+			(at 449.58 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13962,7 +15422,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 452.12 248.92 0)
+			(at 449.58 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13973,7 +15433,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 452.12 248.92 0)
+			(at 449.58 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13984,7 +15444,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 452.12 254 0)
+			(at 449.58 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14011,7 +15471,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 325.12 152.4 0)
+		(at 322.58 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14021,7 +15481,7 @@
 		(dnp no)
 		(uuid "d36bcdc0-94ef-4656-a9f6-e64432d93f45")
 		(property "Reference" "SW9"
-			(at 325.12 154.432 0)
+			(at 322.58 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14031,7 +15491,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 325.12 156.972 0)
+			(at 322.58 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14041,7 +15501,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 325.12 147.32 0)
+			(at 322.58 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14052,7 +15512,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.12 147.32 0)
+			(at 322.58 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14063,7 +15523,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 325.12 152.4 0)
+			(at 322.58 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14090,7 +15550,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 166.37 152.4 0)
+		(at 163.83 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14100,7 +15560,7 @@
 		(dnp no)
 		(uuid "d3c4c3db-cc99-405a-b01c-c5c694c99c0c")
 		(property "Reference" "SW4"
-			(at 166.37 154.432 0)
+			(at 163.83 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14110,7 +15570,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 166.37 156.972 0)
+			(at 163.83 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14120,7 +15580,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 166.37 147.32 0)
+			(at 163.83 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14131,7 +15591,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 147.32 0)
+			(at 163.83 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14142,7 +15602,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 166.37 152.4 0)
+			(at 163.83 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14169,7 +15629,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 325.12 177.8 0)
+		(at 322.58 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14179,7 +15639,7 @@
 		(dnp no)
 		(uuid "d4f77e57-51e1-4bb8-8baa-5f4ef637abb1")
 		(property "Reference" "SW24"
-			(at 325.12 179.832 0)
+			(at 322.58 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14189,7 +15649,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 325.12 182.372 0)
+			(at 322.58 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14199,7 +15659,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 325.12 172.72 0)
+			(at 322.58 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14210,7 +15670,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.12 172.72 0)
+			(at 322.58 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14221,7 +15681,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 325.12 177.8 0)
+			(at 322.58 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14450,7 +15910,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 420.37 203.2 0)
+		(at 417.83 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14460,7 +15920,7 @@
 		(dnp no)
 		(uuid "d9fd2b25-caf2-40f8-ab45-09a4e7bba486")
 		(property "Reference" "SW42"
-			(at 420.37 205.232 0)
+			(at 417.83 205.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14470,7 +15930,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 420.37 207.772 0)
+			(at 417.83 207.772 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14480,7 +15940,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 420.37 198.12 0)
+			(at 417.83 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14491,7 +15951,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 420.37 198.12 0)
+			(at 417.83 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14502,7 +15962,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 420.37 203.2 0)
+			(at 417.83 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14529,7 +15989,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 293.37 177.8 0)
+		(at 290.83 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14539,7 +15999,7 @@
 		(dnp no)
 		(uuid "dbb13ba4-4b81-4bb0-9b7f-8340e7ae8a98")
 		(property "Reference" "SW23"
-			(at 293.37 179.832 0)
+			(at 290.83 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14549,7 +16009,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 293.37 182.372 0)
+			(at 290.83 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14559,7 +16019,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 293.37 172.72 0)
+			(at 290.83 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14570,7 +16030,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 172.72 0)
+			(at 290.83 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14581,7 +16041,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 293.37 177.8 0)
+			(at 290.83 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14608,7 +16068,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 356.87 228.6 0)
+		(at 354.33 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14618,7 +16078,7 @@
 		(dnp no)
 		(uuid "df1035f2-6101-4dd6-8996-eb43024b38fc")
 		(property "Reference" "SW55"
-			(at 356.87 230.632 0)
+			(at 354.33 230.632 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14628,7 +16088,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 356.87 233.172 0)
+			(at 354.33 233.172 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14638,7 +16098,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 356.87 223.52 0)
+			(at 354.33 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14649,7 +16109,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 356.87 223.52 0)
+			(at 354.33 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14660,7 +16120,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 356.87 228.6 0)
+			(at 354.33 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14687,7 +16147,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 229.87 152.4 0)
+		(at 227.33 152.4 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14697,7 +16157,7 @@
 		(dnp no)
 		(uuid "e12d46ab-b129-44c4-a006-6ed4f06136b2")
 		(property "Reference" "SW6"
-			(at 229.87 154.432 0)
+			(at 227.33 154.432 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14707,7 +16167,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 229.87 156.972 0)
+			(at 227.33 156.972 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14717,7 +16177,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 229.87 147.32 0)
+			(at 227.33 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14728,7 +16188,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 147.32 0)
+			(at 227.33 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14739,7 +16199,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 229.87 152.4 0)
+			(at 227.33 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15069,7 +16529,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 515.62 177.8 0)
+		(at 513.08 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15079,7 +16539,7 @@
 		(dnp no)
 		(uuid "edb31552-9c31-497d-9b6f-6663d4f3f5f7")
 		(property "Reference" "SW30"
-			(at 515.62 179.832 0)
+			(at 513.08 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15089,7 +16549,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 515.62 182.372 0)
+			(at 513.08 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15099,7 +16559,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 515.62 172.72 0)
+			(at 513.08 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15110,7 +16570,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 515.62 172.72 0)
+			(at 513.08 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15121,7 +16581,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 515.62 177.8 0)
+			(at 513.08 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15249,7 +16709,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 420.37 177.8 0)
+		(at 417.83 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15259,7 +16719,7 @@
 		(dnp no)
 		(uuid "f1aa0ae8-c1d8-4034-94e9-6be152d83bcb")
 		(property "Reference" "SW27"
-			(at 420.37 179.832 0)
+			(at 417.83 179.832 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15269,7 +16729,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 420.37 182.372 0)
+			(at 417.83 182.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15279,7 +16739,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 420.37 172.72 0)
+			(at 417.83 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15290,7 +16750,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 420.37 172.72 0)
+			(at 417.83 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15301,7 +16761,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 420.37 177.8 0)
+			(at 417.83 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15429,7 +16889,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 198.12 254 0)
+		(at 195.58 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15439,7 +16899,7 @@
 		(dnp yes)
 		(uuid "f2365d52-4491-4a02-914c-ccbe3d293c40")
 		(property "Reference" "SW65"
-			(at 198.12 256.032 0)
+			(at 195.58 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15449,7 +16909,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 198.12 258.572 0)
+			(at 195.58 258.572 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15459,7 +16919,7 @@
 			)
 		)
 		(property "Footprint" "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_1.00u"
-			(at 198.12 248.92 0)
+			(at 195.58 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15470,7 +16930,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 248.92 0)
+			(at 195.58 248.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15481,7 +16941,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 198.12 254 0)
+			(at 195.58 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
