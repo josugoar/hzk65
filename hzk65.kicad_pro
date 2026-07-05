@@ -501,7 +501,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "gr65.kicad_pro",
+    "filename": "hzk65.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -680,7 +680,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "gr65.kicad_sch",
+        "filename": "hzk65.kicad_sch",
         "name": "Root",
         "uuid": "60afb395-188f-4970-813f-c6eb3259e855"
       }

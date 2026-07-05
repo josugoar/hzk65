@@ -432,7 +432,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "gr65_controller.kicad_sch"
+		(property "Sheetfile" "hzk65_controller.kicad_sch"
 			(at 82.55 133.9346 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -644,7 +644,7 @@
 			)
 		)
 		(instances
-			(project "gr65"
+			(project "hzk65"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855"
 					(page "2")
 				)
@@ -678,7 +678,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "gr65_matrix.kicad_sch"
+		(property "Sheetfile" "hzk65_matrix.kicad_sch"
 			(at 158.75 133.9346 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -890,7 +890,7 @@
 			)
 		)
 		(instances
-			(project "gr65"
+			(project "hzk65"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855"
 					(page "3")
 				)

@@ -16639,7 +16639,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 		(model "kicad-embed://RaspberryPi_Pico_W_AddedHeaders_H2.54mm.step"
@@ -16685,7 +16685,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 	)
