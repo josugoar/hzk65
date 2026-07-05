@@ -12722,11 +12722,11 @@
 		(at 61.3181 192.8814)
 		(descr "Open Source Hardware Logo")
 		(tags "Logo OSHW")
-		(property "Reference" "REF**"
+		(property "Reference" "L1"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "06c2a9fb-762d-4e6b-b555-dba957177eb4")
+			(uuid "14fe095a-fb38-41a5-b652-018471226ce7")
 			(effects
 				(font
 					(size 1 1)
@@ -12738,7 +12738,7 @@
 			(at 0.75 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5868908a-e433-47fa-bb06-922bf2f7d469")
+			(uuid "6cdff836-fd2f-4299-9e05-aa07c27abcce")
 			(effects
 				(font
 					(size 1 1)
@@ -12751,7 +12751,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b41c890-cdc0-4243-8003-1759540816b0")
+			(uuid "929a6920-afc2-4ab1-86f1-12e5667b860a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12764,7 +12764,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b4bcb95-f589-4ffe-9de0-0ea90bebce6e")
+			(uuid "457047a9-b7fd-4c01-8db3-72821427e368")
 			(effects
 				(font
 					(size 1.27 1.27)
