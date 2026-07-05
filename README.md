@@ -1,3 +1,3 @@
 # hzk65
 
-> Assembly modular 65% keyboard
+> Modular assembly 65% keyboard
