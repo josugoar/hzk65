@@ -13,7 +13,7 @@
     },
     "custom": [
         {
-            "layers": ["switch"],
+            "layers": ["switch", "top"],
             "op":"cut",
             "points": [0, 24.13],
             "rel_to": [136.3713, -47.94065],
@@ -21,7 +21,7 @@
             "width": 3.54
         },
         {
-            "layers": ["switch"],
+            "layers": ["switch", "top"],
             "op":"cut",
             "points": [0, 24.13],
             "rel_to": [154.1513, -47.94065],
