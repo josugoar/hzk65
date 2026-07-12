@@ -18,7 +18,7 @@
             "points": [0, 24.13],
             "rel_to": [136.3713, -47.94065],
             "height": 51.8,
-            "width": 3.54
+            "width": 2.94
         },
         {
             "layers": ["switch", "top"],
@@ -26,7 +26,7 @@
             "points": [0, 24.13],
             "rel_to": [154.1513, -47.94065],
             "height": 51.8,
-            "width": 3.54
+            "width": 2.94
         }
     ],
     "layout": [
