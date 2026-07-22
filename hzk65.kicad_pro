@@ -685,7 +685,7 @@
         "uuid": "60afb395-188f-4970-813f-c6eb3259e855"
       }
     ],
-    "used_designators": "SW46_ISO1,SW46_ANSI1,SW43_ISO1,SW44_ISO1,SW29_ANSI1,SW1-70,SW76-79,SW47_ISO1,D1-76,A1,SW44_ANSI1,H1-4,#PWR1,J1-2",
+    "used_designators": "SW1-150,D1-150,A1,H1-150",
     "variants": []
   },
   "sheets": [
