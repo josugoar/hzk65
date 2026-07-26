@@ -1156,24 +1156,24 @@
 		)
 	)
 	(no_connect
-		(at 162.56 104.14)
-		(uuid "066481e6-b4f5-4510-9618-9524c4517849")
+		(at 116.84 93.98)
+		(uuid "455292ab-02c2-4824-b674-67c66171b7ba")
 	)
 	(no_connect
-		(at 162.56 119.38)
-		(uuid "1edbef1e-6719-46f5-80e6-7d3edfe98dd2")
+		(at 116.84 88.9)
+		(uuid "5ec8970e-e995-4295-b5c6-0da4bba80f29")
 	)
 	(no_connect
 		(at 162.56 124.46)
 		(uuid "6398596b-72a2-4dd9-9751-687091f297e6")
 	)
 	(no_connect
-		(at 162.56 116.84)
-		(uuid "73edf138-dbf6-4782-9952-9dbd959b11c7")
+		(at 116.84 96.52)
+		(uuid "70d24652-c041-4e17-8a0a-3e23ed72c2d9")
 	)
 	(no_connect
-		(at 162.56 114.3)
-		(uuid "783d94b0-f9d7-423b-89c9-cdce6a67e1c8")
+		(at 116.84 91.44)
+		(uuid "739c8a61-a632-4222-bd14-783c3b56a540")
 	)
 	(no_connect
 		(at 144.78 63.5)
@@ -1196,12 +1196,12 @@
 		(uuid "8a29dedb-69ec-494f-816f-c2cbff182e16")
 	)
 	(no_connect
-		(at 162.56 101.6)
-		(uuid "af5f22c6-c9aa-465b-afa5-f38a96e831ed")
+		(at 116.84 106.68)
+		(uuid "a14315e6-ae79-4ae7-859f-02757daf91e1")
 	)
 	(no_connect
-		(at 162.56 99.06)
-		(uuid "cc22b71f-e1df-4e3f-9f9c-0545c4c03039")
+		(at 116.84 86.36)
+		(uuid "c5f09887-910d-45fb-a711-5bb7960ff033")
 	)
 	(no_connect
 		(at 116.84 78.74)
@@ -1231,12 +1231,12 @@
 	)
 	(hierarchical_label "COL9"
 		(shape input)
-		(at 116.84 91.44 180)
+		(at 162.56 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "265d7284-4e52-47ac-b703-9dcc4f7980a0")
 	)
@@ -1275,7 +1275,7 @@
 	)
 	(hierarchical_label "COL6"
 		(shape input)
-		(at 116.84 101.6 180)
+		(at 116.84 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1286,7 +1286,7 @@
 	)
 	(hierarchical_label "ROW2"
 		(shape output)
-		(at 116.84 104.14 180)
+		(at 116.84 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1308,7 +1308,7 @@
 	)
 	(hierarchical_label "COL5"
 		(shape input)
-		(at 116.84 106.68 180)
+		(at 116.84 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1330,12 +1330,12 @@
 	)
 	(hierarchical_label "COL10"
 		(shape input)
-		(at 116.84 88.9 180)
+		(at 162.56 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "a3a7c583-0a18-4fe5-aa43-8d87b0a63f9a")
 	)
@@ -1352,12 +1352,12 @@
 	)
 	(hierarchical_label "COL7"
 		(shape input)
-		(at 116.84 99.06 180)
+		(at 162.56 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "b4c34863-f0f1-4c3d-af23-646c24b68753")
 	)
@@ -1374,23 +1374,23 @@
 	)
 	(hierarchical_label "ROW3"
 		(shape output)
-		(at 116.84 93.98 180)
+		(at 162.56 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "ca6f36e1-e669-4724-b04f-5a49b1db5722")
 	)
 	(hierarchical_label "COL8"
 		(shape input)
-		(at 116.84 96.52 180)
+		(at 162.56 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "d9ee47d9-82a7-4b98-8618-4d0626d78de8")
 	)
@@ -1418,12 +1418,12 @@
 	)
 	(hierarchical_label "COL11"
 		(shape input)
-		(at 116.84 86.36 180)
+		(at 162.56 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "f1d82900-4ad7-4216-8535-9608de8f74c6")
 	)
