@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.4-10.0.4~ubuntu24.04.1"
     },
-    "CreationDate": "2026-07-25T11:14:45+02:00"
+    "CreationDate": "2026-07-28T17:35:37+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -31,47 +31,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "hzk65_switch-F_Cu.gbr",
+      "Path": "hzk65_switch-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65_switch-B_Cu.gbr",
+      "Path": "hzk65_switch-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65_switch-F_Paste.gbr",
+      "Path": "hzk65_switch-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65_switch-B_Paste.gbr",
+      "Path": "hzk65_switch-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65_switch-F_Silkscreen.gbr",
+      "Path": "hzk65_switch-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65_switch-B_Silkscreen.gbr",
+      "Path": "hzk65_switch-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65_switch-F_Mask.gbr",
+      "Path": "hzk65_switch-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "hzk65_switch-B_Mask.gbr",
+      "Path": "hzk65_switch-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "hzk65_switch-Edge_Cuts.gbr",
+      "Path": "hzk65_switch-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
