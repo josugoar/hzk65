@@ -9,7 +9,7 @@
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "hzk65",
+      "Name": "hzk65_pcb",
       "GUID": "687a6b36-352e-46b6-9963-61645f706362",
       "Revision": "rev?"
     },
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "hzk65-F_Cu.gtl",
+      "Path": "hzk65_pcb-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65-B_Cu.gbl",
+      "Path": "hzk65_pcb-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65-F_Paste.gtp",
+      "Path": "hzk65_pcb-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65-B_Paste.gbp",
+      "Path": "hzk65_pcb-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65-F_Silkscreen.gto",
+      "Path": "hzk65_pcb-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65-B_Silkscreen.gbo",
+      "Path": "hzk65_pcb-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "hzk65-F_Mask.gts",
+      "Path": "hzk65_pcb-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "hzk65-B_Mask.gbs",
+      "Path": "hzk65_pcb-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "hzk65-Edge_Cuts.gm1",
+      "Path": "hzk65_pcb-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

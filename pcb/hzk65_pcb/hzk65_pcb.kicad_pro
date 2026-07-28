@@ -658,7 +658,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "hzk65.kicad_pro",
+    "filename": "hzk65_pcb.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -706,7 +706,7 @@
       "method": 0,
       "sort_order": 1
     },
-    "bom_export_filename": "bom/hzk65.csv",
+    "bom_export_filename": "bom/hzk65_pcb.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -837,7 +837,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "hzk65.kicad_sch",
+        "filename": "hzk65_pcb.kicad_sch",
         "name": "Root",
         "uuid": "60afb395-188f-4970-813f-c6eb3259e855"
       }

@@ -644,7 +644,7 @@
 			)
 		)
 		(instances
-			(project "hzk65"
+			(project "hzk65_pcb"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855"
 					(page "2")
 				)
@@ -890,7 +890,7 @@
 			)
 		)
 		(instances
-			(project "hzk65"
+			(project "hzk65_pcb"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855"
 					(page "3")
 				)

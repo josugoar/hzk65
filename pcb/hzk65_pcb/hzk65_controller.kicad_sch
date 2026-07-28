@@ -1615,7 +1615,7 @@
 			(uuid "f03e5331-882c-4cf0-9c7b-838fafdb864f")
 		)
 		(instances
-			(project "hzk65"
+			(project "hzk65_pcb"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855/8d0df400-51df-4b99-b407-26d0184b5c9d"
 					(reference "A1")
 					(unit 1)
@@ -1694,7 +1694,7 @@
 			(uuid "7a46f1ff-bb51-42ec-a12f-9055c4c4aa64")
 		)
 		(instances
-			(project "hzk65"
+			(project "hzk65_pcb"
 				(path "/60afb395-188f-4970-813f-c6eb3259e855/8d0df400-51df-4b99-b407-26d0184b5c9d"
 					(reference "#PWR01")
 					(unit 1)
