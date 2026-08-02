@@ -9,4 +9,4 @@
 > Modular assembly 65% keyboard
 
 > [!NOTE]
-> Enclose the controller in an acrylic housing or use conformal coating for enhanced ESD protection
+> Enclose the controller in an acrylic housing or use conformal coating for enhanced short-circuit and ESD protection
