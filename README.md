@@ -23,43 +23,27 @@ Built with [KiCad](https://www.kicad.org/) and [FreeCAD](https://www.freecad.org
 
 ## Layout
 
-<figure>
-  <img src="assets/hzk65_kle.png" alt="hzk65_kle">
-  <figcaption><a href="https://www.keyboard-layout-editor.com/##@@_c=%23777777%3B&=0,0&_c=%23cccccc%3B&=0,1&=0,2&=0,3&=0,4&=0,5&=0,6&=0,7&=0,8&=0,9&=0,10&=0,11&=0,12&_c=%23aaaaaa&w:2%3B&=0,13%3B&@_w:1.5%3B&=1,0&_c=%23cccccc%3B&=1,1&=1,2&=1,3&=1,4&=1,5&=1,6&=1,7&=1,8&=1,9&=1,10&=1,11&=1,12&_w:1.5%3B&=1,13%3B&@_c=%23aaaaaa&w:1.75%3B&=2,0&_c=%23cccccc%3B&=2,1&=2,2&=2,3&=2,4&=2,5&=2,6&=2,7&=2,8&=2,9&=2,10&=2,11&_c=%23777777&w:2.25%3B&=2,13%3B&@_c=%23aaaaaa&w:2.25%3B&=3,0&_c=%23cccccc%3B&=3,2&=3,3&=3,4&=3,5&=3,6&=3,7&=3,8&=3,9&=3,10&=3,11&_c=%23aaaaaa&w:1.75%3B&=3,12&_x:1.5&c=%23777777%3B&=3,14%3B&@_y:-0.75&x:14.25%3B&=3,13%3B&@_y:-0.25&c=%23aaaaaa&w:1.25%3B&=4,0&_w:1.25%3B&=4,1&_w:1.25%3B&=4,2&_c=%23cccccc&w:6.25&%2F_rs:180%3B&=4,6&_c=%23aaaaaa%3B&=4,9&=4,10&=4,11%3B&@_y:-0.75&x:13.25&c=%23777777%3B&=4,12&=4,13&=4,14">KLE layout</a></figcaption>
-</figure>
+![hzk65_kle](assets/hzk65_kle.png)
+*[KLE layout](https://www.keyboard-layout-editor.com/##@@_c=%23777777%3B&=0,0&_c=%23cccccc%3B&=0,1&=0,2&=0,3&=0,4&=0,5&=0,6&=0,7&=0,8&=0,9&=0,10&=0,11&=0,12&_c=%23aaaaaa&w:2%3B&=0,13%3B&@_w:1.5%3B&=1,0&_c=%23cccccc%3B&=1,1&=1,2&=1,3&=1,4&=1,5&=1,6&=1,7&=1,8&=1,9&=1,10&=1,11&=1,12&_w:1.5%3B&=1,13%3B&@_c=%23aaaaaa&w:1.75%3B&=2,0&_c=%23cccccc%3B&=2,1&=2,2&=2,3&=2,4&=2,5&=2,6&=2,7&=2,8&=2,9&=2,10&=2,11&_c=%23777777&w:2.25%3B&=2,13%3B&@_c=%23aaaaaa&w:2.25%3B&=3,0&_c=%23cccccc%3B&=3,2&=3,3&=3,4&=3,5&=3,6&=3,7&=3,8&=3,9&=3,10&=3,11&_c=%23aaaaaa&w:1.75%3B&=3,12&_x:1.5&c=%23777777%3B&=3,14%3B&@_y:-0.75&x:14.25%3B&=3,13%3B&@_y:-0.25&c=%23aaaaaa&w:1.25%3B&=4,0&_w:1.25%3B&=4,1&_w:1.25%3B&=4,2&_c=%23cccccc&w:6.25&%2F_rs:180%3B&=4,6&_c=%23aaaaaa%3B&=4,9&=4,10&=4,11%3B&@_y:-0.75&x:13.25&c=%23777777%3B&=4,12&=4,13&=4,14)*
 
 ## PCB
 
-<figure>
-  <img src="assets/hzk65_pcb_top.png" alt="hzk65_pcb_top">
-  <figcaption>Top view</figcaption>
-</figure>
+![hzk65_pcb_top](assets/hzk65_pcb_top.png)
+*Top view*
 
-<figure>
-  <img src="assets/hzk65_pcb_bottom.png" alt="hzk65_pcb_bottom">
-  <figcaption>Bottom view</figcaption>
-</figure>
+![hzk65_pcb_bottom](assets/hzk65_pcb_bottom.png)
+*Bottom view*
 
 ## Assembly
 
-<figure>
-  <img src="assets/hzk65_top.png" alt="hzk65_top">
-  <figcaption>Top view</figcaption>
-</figure>
+![hzk65_top](assets/hzk65_top.png)
+*Top view*
 
-<br>
+![hzk65_bottom](assets/hzk65_bottom.png)
+*Bottom view*
 
-<figure>
-  <img src="assets/hzk65_bottom.png" alt="hzk65_bottom">
-  <figcaption>Bottom view</figcaption>
-</figure>
-
-<br>
-
-<figure>
-  <img src="assets/hzk65_side.png" alt="hzk65_side">
-  <figcaption>Side view</figcaption>
-</figure>
+![hzk65_side](assets/hzk65_side.png)
+*Side view*
 
 ## Credits
 
