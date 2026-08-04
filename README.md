@@ -8,7 +8,7 @@
 
 > Modular assembly 65% keyboard
 
-HizKey65 is a modular assembly 65% keyboard with a socketed controller, a sandwitch-mounted case, an ANSI layout and hot-swappable switch sockets.
+HizKey65 ([/is̻ki/](https://hiztegiak.elhuyar.eus/eu/hizki)) is a modular assembly 65% keyboard with a socketed controller, hot-swappable switch sockets, sandwitch-mounted case and ANSI layout.
 
 Built with [KiCad](https://www.kicad.org/) and [FreeCAD](https://www.freecad.org/) and manufactured by [JLC Digital Manufacturing](https://jlcpcb.com/).
 
