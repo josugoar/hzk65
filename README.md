@@ -15,7 +15,7 @@ Built with [KiCad](https://www.kicad.org/) and [FreeCAD](https://www.freecad.org
 > [!NOTE]
 > Enclose the controller in an acrylic housing or use conformal coating for enhanced protection
 
-![hzk65_full_exposed](assets/hzk65_full_exposed.png)
+![hzk65_full](assets/hzk65_full.png)
 
 ## Latest revisions
 
